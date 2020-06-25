@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CarbonManage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleApri">糖質を記録するアプリ</string>
+    <string name="textSlogan">食べた糖質だけを記録して\n簡単ダイエット</string>
+    <string name="textUnnecessary">登録不要で使いたい方はコチラ\n ※他の未登録ユーザーと情報を共有しての利用となります。</string>
+    <string name="monthlyAmount">3,000.1 グラム</string>
+    <string name="dailyAmount">300.5 グラム</string>
+    <string name="lastMonthDaily">280.5 グラム</string>
+    <string name="mealText">ex.おにぎり からあげ 焼き魚定食…</string>
+    <string-array name="mealCase">
+        <item></item>
+        <item>朝食</item>
+        <item>昼食</item>
+        <item>夕食</item>
+        <item>間食（午前）</item>
+        <item>間食（午後）</item>
+        <item>飲み会</item>
+        <item>接待</item>
+        <item>夜食</item>
+    </string-array>
+</resources>
