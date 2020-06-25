@@ -1,1 +1,1 @@
-## APIレベル:19 KitKat　
+## Minimum SDK API19 KitKat
