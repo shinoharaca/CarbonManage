@@ -1,1 +1,1 @@
-## Minimum SDK API19 KitKat
+## Minimum SDK API 19 KitKat
