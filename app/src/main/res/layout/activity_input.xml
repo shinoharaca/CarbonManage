@@ -141,7 +141,7 @@
                     android:textSize="18sp" />
 
                 <TextView
-                    android:id="@+id/textView17"
+                    android:id="@+id/textUnit"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
@@ -158,7 +158,7 @@
                 android:orientation="horizontal">
 
                 <EditText
-                    android:id="@+id/editAmount"
+                    android:id="@+id/editCarbonAmount"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="20sp"
@@ -232,7 +232,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/btCarbonReg"
+                android:id="@+id/btCarbonSave"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="32dp"
