@@ -15,6 +15,7 @@ class InputActivity : AppCompatActivity(),
 
     private val _helper = DatabaseHelper(this@InputActivity)
 
+    private var _mealId = -1
 
     override fun Selected(year: Int, month: Int, date: Int) {
         val c = Calendar.getInstance()
