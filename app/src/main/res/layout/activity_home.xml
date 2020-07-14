@@ -95,7 +95,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/monthlyAmount" />
 
             <TextView
-                android:id="@+id/dailyAmont"
+                android:id="@+id/dailyCarbon"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="24dp"

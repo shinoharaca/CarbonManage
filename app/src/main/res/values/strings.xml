@@ -9,8 +9,11 @@
     <string name="dailyAmount">300.5 グラム</string>
     <string name="lastMonthDaily">280.5 グラム</string>
     <string name="mealText">ex.おにぎり からあげ 焼き魚定食…</string>
+    <string name="breakfast">朝食string</string>
+    <string name="nothing"></string>
     <string-array name="mealCase">
-        <item></item>
+        <item>@string/nothing</item>
+        <item>@string/breakfast</item>
         <item>朝食</item>
         <item>昼食</item>
         <item>夕食</item>

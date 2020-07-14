@@ -21,7 +21,7 @@ companion object {
         sb.append( "time TEXT," )
         sb.append( "mealcase TEXT," )
         sb.append( "meal TEXT," )
-        sb.append( "amount REAL," )
+        sb.append( "amount INTEGER," )
         sb.append( "unit TEXT," )
         sb.append( "carbon REAL" )
         sb.append( ");" )

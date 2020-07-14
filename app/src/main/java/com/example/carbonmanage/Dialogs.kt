@@ -62,8 +62,8 @@ class TimePickerFragment: DialogFragment(),TimePickerDialog.OnTimeSetListener{
         return TimePickerDialog(context, this, hour, minute, true)
     }
 
-    override fun onTimeSet(p0: TimePicker?, p1: Int, p2: Int) {
-        listener?.Selected(p1, p2)
+    override fun onTimeSet(p0: TimePicker?, hourOfDay: Int, minute: Int) {
+        listener?.Selected(hourOfDay, minute)
     }
 
 }
